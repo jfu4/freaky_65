@@ -15,4 +15,4 @@ Avatar Fire Nation Build:
 
 
 Japanese Black and White Office Build:  
-<img width="1390" height="484" alt="image" src="https://github.com/user-attachments/assets/c48b15a6-19fe-4867-87dc-9afa6c7e1bb9" />
+<img width="721" height="257" alt="image" src="https://github.com/user-attachments/assets/c48b15a6-19fe-4867-87dc-9afa6c7e1bb9" />
