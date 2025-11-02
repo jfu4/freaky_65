@@ -11,10 +11,8 @@ Specifications:
 - Modular mounting holes
 
 Avatar Fire Nation Build:  
-
-<img width="1385" height="492" alt="image" src="https://github.com/user-attachments/assets/13c9cc78-20f3-49c1-8923-e43518fc327e" />
+<img width="721" height="257" alt="image" src="https://github.com/user-attachments/assets/143b3ba6-5bcb-4202-a97a-98190bfcc913" />
 
 
 Japanese Black and White Office Build:  
-
-<img width="848" height="313" alt="image" src="https://github.com/user-attachments/assets/c4a2cdc1-1ad0-4d19-bf2d-6a3671a01e2c" />
+<img width="1390" height="484" alt="image" src="https://github.com/user-attachments/assets/c48b15a6-19fe-4867-87dc-9afa6c7e1bb9" />
