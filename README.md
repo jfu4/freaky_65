@@ -1,7 +1,20 @@
-This is a Kicad Template project (that also happens to be a dev-board) for the STM32F072CBT6.
+# freaky_65
+This is my first mechanical keybaord PCB.
 
-***THIS PROJECT IS NOT PIN-COMPATIBLE OR PHYSICALLY COMPATIBLE WITH PROJECTS THAT USE A BLACKPILL OR ANY OTHER STM DEV-BOARD***
+Specifications:
+- 65 % Layout
+- USB-C
+- STM32MCU
+- Rotary encoder
+- RGB Lighting
+- Custom key mapping
+- Modular mounting holes
 
-**THIS IS NOT A BLACKPILL OR BLUEPILL REPLACEMENT**
+Avatar Fire Nation Build:  
 
-****See this video for turning this template into a BlackPill-compatible dev board:**** https://youtu.be/LvX-Us9VZM0
+<img width="1385" height="492" alt="image" src="https://github.com/user-attachments/assets/13c9cc78-20f3-49c1-8923-e43518fc327e" />
+
+
+Japanese Black and White Office Build:  
+
+<img width="848" height="313" alt="image" src="https://github.com/user-attachments/assets/c4a2cdc1-1ad0-4d19-bf2d-6a3671a01e2c" />
